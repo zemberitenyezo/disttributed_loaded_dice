@@ -26,21 +26,29 @@ def distributed_loaded_dice(candidates, joker):
     return(suggested)
 
 
-
+# How many oppositional candidates run in your local district?
 print("Hány nem listás ellenzéki indul a körzetében?")
+# number of candidates
 indulok_szama = int(input())
 print()
 
+# candidates
 indulok = []
+# collecting candidates' data
 for i in range(indulok_szama):
+    # name of i.th candidate
     print(i+1, ". induló neve?")
     neve = input()
+    # popularity of the i.th candidate's party
     print(i+1, ". induló népszerűsége (%)?")
     eselye = int(float(input())*100)
+    # extend list of locally runing candidates
     indulok.append([neve, eselye])
     print()
 
+# Please add the publicly widely agreed upon random number, like a lottery, that has been selected closely before election. (Refer to README for details.)
 print("Kérem adja meg a legfrissebb Joker sorsoláson kihúzott 6 jegyű szelvény számot!")
 joker = int(input())
 print()
+# Please cast your vote to the following local candidate in your voting district...
 print("Kérem szavazzon", distributed_loaded_dice(indulok, joker), "nevű jelöltre!")
