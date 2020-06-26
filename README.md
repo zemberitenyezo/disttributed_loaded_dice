@@ -48,4 +48,7 @@ The joker number, named after one of the Hungarian lottery games, is a real life
 3) the distortion based fluctuations from 2) are going to be different at every election, as long as the current law is in power, and this algorithm is being applied by voters
 4) if the same software is used for several elections throughout years, but at some small districts the names list wouldn't change, still everyone will always have a new a chance to win
 
-Of course the entire offline distributed process is very sensitive to people entering proper data into their phone and even more sensitive to the actual public awareness of the solution itself.
+Of course the entire offline distributed process is very sensitive to
+ - application of the exact same algorithm by every voter
+ - people entering proper data into their phones: locally candidate names, nationwide the same popularity results
+ - selecting the common random number source that can't be silenced, censored at the very last moment yet is still widely accessable
