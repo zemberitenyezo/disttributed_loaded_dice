@@ -32,7 +32,7 @@ Ha a kormányt leváltani akarók mind, önként ezen eljárás szerint választ
 
 # Distributed loaded dice algorithm
 
-A proof of concept for an app to help unite voters in a single round voting system with a fragmented opposition by an offline computable pseudo-random function.
+Voting systems are most of the cases never ideal - that's proven by maths - and times may come when a particular voting system gets abused by some rouge politicians or parties. In such times people can optimize their voting power to deviate from rather randomly scattered voting to pre-election based and with various goals. Most of the time however that rouge government will try to hinder this process so it might not seem a bad idea to do it privately safely just by being able to run an offline application on a mobile phone which helps the masses organise themselves according to some rule of thumb rather than just failing to change the system! Let's see a proof of concept for an app to help unite voters in a single round voting system with a fragmented opposition by an offline computable pseudo-random function.
 
 In a single round voting system, where the strongest party's candidate wins irrespective of whether s/he has >50% majority, a fragmented opposition automatically yields that votes cast on them get more or less statistically distributed among the oppositions' candidates, thus enabling a party with relative majority retain its power even if its popularity is <50% among the voters' entire population.
 
