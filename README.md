@@ -22,7 +22,11 @@ A lapjárást még célszerű a választás előtti utolsó előtti - kb. 1 hete
 3) a 2) pont szerinti eltérések véletlenszerűen alakulnak választásról választásra, amíg a választáshoz ezt az algoritmust használjuk és a mostani törvény hatályos
 4) a különböző későbbi választásokon akkor is más és más eredmény születik majd, ha történetesen egy-két helyen ugyanazok a nevek indulnának
 
-Az algoritmus működéséhez kritikus, hogy az egy körzetben szavazók ugynazokat a neveket, és lehetőleg azonos esélyeket adjanak meg az egyes jelölteknek. Utóbbihoz jó kiindulási alap lehet az önkormányzati választás, vagy bármilyen hasonlóan hiteles országos népszerűségi felmérés.
+Az algoritmus működéséhez kritikus, hogy
+ - mindenki precízen és pontosan ugyanazt az algoritmust használja
+ - az egy körzetben szavazók ugynazokat a neveket, (ékezet, kis és nagy betű, de még a szóközök száma (1) is befolyásol)
+ - országosan azonos esélyeket adjanak meg az egyes jelölteknek (utóbbihoz per pillanat jó kiindulási alap lehet az önkormányzati választás, máskor a legutolsó hasonlóan hiteles országos népszerűségi felmérés)
+ - a Joker szám ismert legyen mindenki számára (ezért érdemes az egy héttel korábbit használni, ha a sorsolás "véletlenül" elmaradna, akkor "123456" adandó meg)
 
 Ha a kormányt leváltani akarók mind, önként ezen eljárás szerint választanak, akkor gyakorlatilag csak az egyszerű, abszolút többségükön múlik egy-egy körzet megnyerése, még akkor is, ha több, egymás közt nem kordináló ellenzéki párt száll versenybe!
 
