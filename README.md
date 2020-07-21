@@ -18,14 +18,14 @@ A decentralizált megoldás jobban hasonlítható egy olyan kártya játékhoz a
 
 A lapjárást még célszerű a választás előtti utolsó előtti - kb. 1 hetes - Joker sorsolás eredményétől is függővé tenni, több okból is:
 1) szinte az utolsó napig nem derül ki, kiket fog javasolni a szoftver, így lejáratni, politikailag támadni sem tudni, melyik körzetben kiket kell pontosan
-2) a pártok körzetenkénti reprezentációja, bár közelíteni fogja azok korábban mért országos népszerűségét, de a statisztikai folyamat szórása és a körzetek véges száma miatt ez matematikailag nem lehet tökéletes, lesz amelyik párt a pontos népszerűségéhez képest kicsit felül reprezentáltabb lesz, lesz amelyik alul, és a Joker sorsoláson múlik gyakorlatilag, hogy ez végül az adott vlasztáson éppen pontosan hogyan alakul
+2) a pártok körzetenkénti reprezentációja, bár közelíteni fogja azok korábban mért országos népszerűségét, de a statisztikai folyamat szórása és a körzetek véges száma miatt ez matematikailag nem lehet tökéletes, lesz amelyik párt a pontos népszerűségéhez képest kicsit felül reprezentáltabb lesz, lesz amelyik alul, és a Joker sorsoláson múlik gyakorlatilag, hogy ez végül az adott választáson éppen pontosan hogyan alakul
 3) a 2) pont szerinti eltérések véletlenszerűen alakulnak választásról választásra, amíg a választáshoz ezt az algoritmust használjuk és a mostani törvény hatályos
 4) a különböző későbbi választásokon akkor is más és más eredmény születik majd, ha történetesen egy-két helyen ugyanazok a nevek indulnának
 
 Az algoritmus működéséhez kritikus, hogy
  - mindenki precízen és pontosan ugyanazt az algoritmust használja
- - az egy körzetben szavazók ugynazokat a neveket, (ékezet, kis és nagy betű, de még a szóközök száma (1) is befolyásol)
- - országosan azonos esélyeket adjanak meg az egyes jelölteknek (utóbbihoz per pillanat jó kiindulási alap lehet az önkormányzati választás, máskor a legutolsó hasonlóan hiteles országos népszerűségi felmérés)
+ - az egy körzetben szavazók ugynazokat a neveket adják meg (ékezet, kis és nagy betű, de még a szóközök száma (1) is befolyásol)
+ - országosan pedig azonos esélyeket adjanak meg az egyes pártok helyi indulóinak (utóbbihoz per pillanat jó kiindulási alap lehet az önkormányzati választás, máskor a legutolsó hasonlóan hiteles országos népszerűségi felmérés)
  - a Joker szám ismert legyen mindenki számára (ezért érdemes az egy héttel korábbit használni, ha a sorsolás "véletlenül" elmaradna, akkor "123456" adandó meg)
 
 Ha a kormányt leváltani akarók mind, önként ezen eljárás szerint választanak, akkor gyakorlatilag csak az egyszerű, abszolút többségükön múlik egy-egy körzet megnyerése, még akkor is, ha több, egymás közt nem kordináló ellenzéki párt száll versenybe!
