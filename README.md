@@ -30,7 +30,7 @@ Az algoritmus működéséhez kritikus, hogy
 
 Ha a kormányt leváltani akarók mind, önként ezen eljárás szerint választanak, akkor gyakorlatilag csak az egyszerű, abszolút többségükön múlik egy-egy körzet megnyerése, még akkor is, ha több, egymás közt nem kordináló ellenzéki párt száll versenybe!
 
-A vázolt eljárás offline, önállóan számolja ki a javasolt jelölteket, használata semmilyen központi adatgyűjtést nem igényel, és központosított koordinációt is csak annyiban tesz szükségessé, hogy amennyiben a lakosság több különféle alkalmazást használna, vagy több különféle véletlen szám forrást adna meg (egy hetes Joker helyett), azzal újfent megosztaná saját magát a helyi ellenzéki jelöltek között, és valószínűleg elveszítené az helyi választási körzeteket.
+A vázolt eljárás offline, önállóan számolja ki a javasolt jelölteket, használata semmilyen központi adatgyűjtést nem igényel, és központosított koordinációt is csak annyiban tesz szükségessé, hogy ha a lakosság több különféle alkalmazást használna, vagy több különféle véletlen szám forrást adna meg (egy hetes Joker helyett), azzal újfent megosztaná saját magát a helyi ellenzéki jelöltek között, és valószínűleg elveszítené az helyi választási körzeteket.
 
 # Distributed loaded dice algorithm
 
