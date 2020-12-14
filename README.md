@@ -26,7 +26,7 @@ Az algoritmus működéséhez kritikus, hogy
  - mindenki precízen és pontosan ugyanazt az algoritmust használja
  - az egy körzetben szavazók ugynazokat a neveket adják meg (ékezet, kis és nagy betű, de még a szóközök száma (1) is befolyásol)
  - országosan pedig azonos esélyeket adjanak meg az egyes pártok helyi indulóinak (utóbbihoz per pillanat jó kiindulási alap lehet az önkormányzati választás, máskor a legutolsó hasonlóan hiteles országos népszerűségi felmérés)
- - a Joker szám ismert legyen mindenki számára (ezért érdemes az egy héttel korábbit használni, ha a sorsolás "véletlenül" elmaradna, akkor "123456" adandó meg)
+ - a Joker szám ismert legyen mindenki számára (ezért érdemes az egy héttel korábbit használni, ha a sorsolás "véletlenül" elmaradna, akkor "ééééhhnn" formátumban a választés napja adandó meg)
 
 Ha a kormányt leváltani akarók mind, önként ezen eljárás szerint választanak, akkor gyakorlatilag csak az egyszerű, abszolút többségükön múlik egy-egy körzet megnyerése, még akkor is, ha több, egymás közt nem kordináló ellenzéki párt száll versenybe!
 
