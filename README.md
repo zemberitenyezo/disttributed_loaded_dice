@@ -30,6 +30,8 @@ Az algoritmus működéséhez kritikus, hogy
 
 Ha a kormányt leváltani akarók mind, önként ezen eljárás szerint választanak, akkor gyakorlatilag csak az egyszerű, abszolút többségükön múlik egy-egy körzet megnyerése, még akkor is, ha több, egymás közt nem kordináló ellenzéki párt száll versenybe!
 
+A vázolt eljárás offline, önállóan számolja a javasolt jelölteket, használata semmilyen központi adatgyűjtést nem igényel, és központosított koordinációt is csak annyiban tesz szükségessé, hogy ha a lakosság több különféle alkalmazást használna, vagy több különféle véletlen szám forrást adna meg (Joker), azzal újfent megosztaná saját magát a helyi ellenzéki jelöltek között, és valószínűleg elveszítené az helyi választás(oka)t.
+
 # Distributed loaded dice algorithm
 
 Voting systems are most of the cases never ideal - that's proven by maths - and times may come when a particular voting system gets abused by some rouge politicians or parties. In such times people can optimize their voting power to deviate from rather randomly scattered voting to pre-election based and with various goals. Most of the time however that rouge government will try to hinder this process so it might not seem a bad idea to do it privately safely just by being able to run an offline application on a mobile phone which helps the masses organise themselves according to some rule of thumb rather than just failing to change the system! Let's see a proof of concept for an app to help unite voters in a single round voting system with a fragmented opposition by an offline computable pseudo-random function.
@@ -56,3 +58,5 @@ Of course the entire offline distributed process is very sensitive to
  - application of the exact same algorithm by every voter
  - people entering proper data into their phones: locally candidate names, nationwide the same popularity results
  - selecting the common random number source that can't be silenced, censored at the very last moment yet is still widely accessable
+ 
+As stated the process works offline, doesn't require any collection of voters' data and doesn't require more centralized coordination than named in the last list.
