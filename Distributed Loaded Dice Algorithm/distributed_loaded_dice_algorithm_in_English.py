@@ -33,17 +33,16 @@ print()
 candidates_list = []
 # collecting candidates' data
 for i in range(number_of_candidates):
-    # f i.th 
     print("What is the name of candidate number", i+1, "?")
     its_name = input()
-    # popularity of the i.th candidate's party
     print("Please enter the popularity of the party that candidate number", i+1, "belongs to:")
     its_chance = int(float(input())*100)
     # extend list of locally runing candidates
     candidates_list.append([its_name, its_chance])
     print()
 
-print("Please add the publicly widely agreed upon random number, like a lottery, that has been randomly generated closely before election:") # Refer to README for details.
+# Refer to README for details over the random number's role.
+print("Please add the publicly widely agreed upon random number, like a lottery, that has been randomly generated closely before election:")
 common_real_life_random_number = int(input())
 print()
 
