@@ -2,6 +2,9 @@
 
 import hashlib
 
+# input parameters:
+# 'candidates' is a list of lists with two entries each: [[name1, chance1],[name2, chance2], ..., [nameN, chanceN]]
+# 'joker' is a simple integer
 def distributed_loaded_dice(candidates, joker):
     previous_hash = 0
     #looping through all candidate names one by one
