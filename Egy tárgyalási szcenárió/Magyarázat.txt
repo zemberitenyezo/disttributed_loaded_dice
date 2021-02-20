@@ -1,3 +1,8 @@
-Ezeket a példa ábrákat még akkor készítettem, amikor az előírtan betöltendő körzetek száma pártonként 27 volt éppen. Azaz minden pártnak vagy párt tömörülésnek rendelkeznie kellett 27 önálló körzeti jelölttel (ez most 71). Az ábrák 4 párt tömörülés feltételezésével készültek, és azt a tárgyalási szcenáriót mutatják, ahol a tárgyaló felek átlagosan 25 körzetet kívánnak végül megnyerni, amellyel bármelyikük 4 körzetről mondhat le valamely másik javára, hogy tükrözze a valós támogatottságot és még 94,3%-át vihetik el a 106 körzetnek ideális esetben, azaz ha a Fidesz minden 1 ellenzéki indulós, "átfedés nélküli" körzetben bukik - továbbá ha a lakosság nem alkalmaz sikerrel választási koordinációt a maradék, több ellenzéki indulós "átfedéses" körzetben.
+Ezeket a példa ábrákat még akkor készítettem, amikor az előírtan betöltendő körzetek száma pártonként 27 volt éppen. Azaz minden pártnak vagy
+párt tömörülésnek rendelkeznie kellett 27 önálló körzeti jelölttel (ez most 71). Az ábrák 4 párt tömörülés feltételezésével készültek, és azt
+a tárgyalási szcenáriót mutatják, ahol a tárgyaló felek átlagosan 25 körzetet kívánnak végül megnyerni, amellyel bármelyikük 4 körzetről
+mondhat le valamely másik javára, hogy tükrözze a valós támogatottságot és még 94,3%-át vihetik el a 106 körzetnek ideális esetben, azaz ha a
+Fidesz minden 1 ellenzéki indulós, "átfedés nélküli" körzetben bukik - továbbá ha a lakosság nem alkalmaz sikerrel választási koordinációt a
+maradék, több ellenzéki indulós "átfedéses" körzetben.
 
 (Windows alatt Fénykép nézegetővel slide show jelleggel érdemes pörgetni a képeket a könnyebb követhetőséghez.)
