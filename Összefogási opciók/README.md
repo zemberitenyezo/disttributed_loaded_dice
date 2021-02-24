@@ -1,8 +1,6 @@
 https://hvg.hu/360/20210221_Revesz_Sandor_Orban_vesziteni_akar ez alapján a cikk alapján egy kisebbségi Fidesz kormányt eredményező választás nem lenne egy rossz felállás (A cikk összefoglalva: az államkassza mélyen mínuszban, a pénzt elosztogatta a Fidesz, és az ellenzéké lesz a megszorító szerep - ahogy hasonlót már 2002-ben is eljátszottak, csak akkor először szorított meg az MSZP a Bokros-csomaggal, és utána verte el a Fidesz a tartalékot, csinált egy negatív kampányt, amivel látványosat bukott).
 
-
 # Szóval kisebbségi Fidesz kormány mellett a felelősség és a hírnév maradna a mostani kormányé, de az ellenzék nélkül meg lenne kötve a keze.
-
 
 1) Kisebbségi Fidesz kormány létrehozható úgy is, ha az ellenzék két (2) listára oszlik, és 2x35 körzetben indít önálló jelöltet, 36 körzetben pedig egymás ellen indul, hogy a 35+36=71 országos jelöltje meg legyen mindkét listának. Ebben az esetben egy kb. 50%-os országos támogatottság mellett 93/2~46 listás és jó esetben 2x35=70 egyéni szavazat mellett: (46+70)/199~58% körül vihet a parlamenti székekből. Ez miért érdekes? 58%/2=29%, a Fidesznek meg maradna kb. 42% így bármely ellenzéki párttal önállóan is tudna kormányozni, 2/3-os szinten is, csak a kettő közül az egyikkel mindig meg kellene egyeznie: 29%+42%=71%.
 
