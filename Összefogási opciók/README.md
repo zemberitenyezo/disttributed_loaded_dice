@@ -8,7 +8,9 @@
 
 3. Egy elképzelhető játszma még a három (3) ellenzéki lista, ahol már viszont _állampolgári önszervezés nélkül_ legjobb esteben is csak 3x17=51 körzet nyerhető, amivel az ellenzék parlamenti aránya (51+46)/199=48,7%. Ha a választók megpróbálják önállóan egységesíteni erejüket, 2 körzetben kell sikerrel járniuk az 50% feletti ellenzéki arányhoz, és legalább 35-ben (3-mal oszthatóan 36-ban) a 40 darab 3 indulóval rendelkező körzetből ahhoz, hogy az ellenzéknek:
   > meglegyen a 2/3-a összesen, de
+
   > a Fidesz legyen közülük a legnagyobb párt, így annak kelljen kormányt alakítania
+
 Ekkor a 3 ellenzéki pártnak egyenként (17+35/3+46/3)/199~22,1%-a lenne a parlamentben. Ennek hátránya, hogy a Fidesznek már 3 ellenzéki párt áll rendelkezésére, amelyek bármelyikével dönthet 50%-ot igénylő kérdésekről, illetve a töredék szavaztok miatt valószínűleg nem lesz meg valóban a 2/3-a ilyen simán a teljes ellenzéknek... Ha tehát mi választók rá tudunk tenni egy lapáttal a lakossági összefogásra, és beviszsük mind a 40, 3 indulós körzetet az ellenzéknek, és/vagy a notórius nem szavazók amúgy ca. 33%-ának egy része aktivizálja magát valamennyire az ellenzéki oldalon, és megemeli a listás ellenzéki helyek számát, amelyet végig 46-nak számoltam, az tartogathat meglepit!
 
 Megjegyzendő még esetleg, hogy a 2) szerinti lakossági önkéntes átszavazás szervezés nélkül az 1)-es pontban vázoltak is kisebbségi Fidesz kormányhoz vezetnek, éppcsak az ellenzéknek szüksége lesz a 2/3-os döntésekhez a Fideszre...
