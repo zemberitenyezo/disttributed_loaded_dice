@@ -1,4 +1,4 @@
-(Scroll down for English...)
+### Scroll down for English...
 
 # Decentralizált cinkelt kocka algoritmus
 
